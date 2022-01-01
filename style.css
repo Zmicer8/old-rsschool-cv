@@ -1,0 +1,9 @@
+<style>
+  .gray-background {
+    background-color: #cccccc;
+  }
+</style>
+
+<div class="gray-background">
+    Текст, который будет выведен на сером фоне
+</div>
